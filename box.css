@@ -1,0 +1,81 @@
+
+.box{
+    border: 2px solid red;
+    width: 27.5%;
+    display: inline-block;
+    text-align: center;
+    margin: 34px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px 10px #000;
+    
+                
+
+}
+.html{   
+   border-bottom: 1px solid #000;
+   border-radius: 5px;
+   background: lightgray;
+}
+h1{
+
+   margin-top: 50px;
+   text-align: center;
+            
+ }
+
+ ul{
+    list-style-type: none;
+ }
+ li{
+    font-size: 25px;
+    display: inline-block;
+    margin-left:100px;
+    margin-top:20px;
+   
+ }
+   
+ a{
+   color: yellow;
+    text-decoration: none;
+    
+ } 
+ a:hover{
+   background: pink;
+   color: #000;
+ }
+ .car{
+         
+    color: red;
+ }
+ 
+button:hover{
+   background: red;
+   color: #fff;
+}
+.car:first-letter{
+   color: green;
+}
+ 
+ .video{
+   border: 1px solid #fff;
+   margin: 10px;
+   margin-top: 20px;
+ }    
+          
+.css{
+
+    position: fixed;
+    right: 20px;
+    bottom: 20px; 
+   color: green;
+   font-size: 60px;
+   
+}       
+.css:hover{
+   background: yellow;
+}
+
+.html{
+   position: sticky;
+   top: 10px;
+}
